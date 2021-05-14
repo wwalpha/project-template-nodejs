@@ -1,0 +1,3 @@
+yarn add @alphax/dynamodb aws-sdk axios body-parser cors express lodash morgan moment short-uuid winston 
+
+yarn add @istanbuljs/nyc-config-typescript @types/aws-lambda @types/chai @types/cors @types/express @types/lodash @types/mocha @types/morgan @types/node aws-sdk-mock chai chai-exclude chai-http cross-env dotenv mocha ngrok nodemon nyc source-map-support ts-mocha ts-node tsc-alias tsconfig-paths typescript -D
